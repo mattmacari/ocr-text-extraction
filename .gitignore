@@ -138,4 +138,5 @@ dmypy.json
 cython_debug/
 
 # DSStore
-.DS_Store/
+.DS_Store
+.vscode/
